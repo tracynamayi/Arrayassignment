@@ -1,3 +1,7 @@
+/*Tracy Namayi
+  ENE212-0067/2021
+  Array assignment*/
+
 #include <stdio.h>
 
 int main() {
